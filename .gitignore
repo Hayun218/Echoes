@@ -99,3 +99,10 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,flutter
+
+### supabase ###
+supabase/.*/
+
+# Python cache
+__pycache__/
+*.pyc
